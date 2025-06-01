@@ -1,4 +1,4 @@
-# red-python-project
+# redi-python-project
 final project
 # 🏫 School Management System
 
